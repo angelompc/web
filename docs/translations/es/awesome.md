@@ -3,7 +3,7 @@ title: Increíble
 description: Una lista de herramientas, librerías y plugins útiles para desarrollo en SA:MP.
 ---
 
-## Tools
+## Herramientas
 
 - **_[Community Compiler](https://github.com/pawn-lang/compiler/)_** - Una versión actualizada del compilador, con varias mejoras y arreglos.
 - **_[sampctl](http://sampctl.com/)_** - Administrador de paquetes para instalar librerías y ejecutar tu servidor.
@@ -13,7 +13,7 @@ description: Una lista de herramientas, librerías y plugins útiles para desarr
 - **_[SA-MP Zone Editor](https://bitbucket.org/Grimrandomer/samp-zone-editor/downloads/)_** - Editor de zonas para generar areas y demás.
 - **_[SA-MP Map Editor](https://github.com/openmultiplayer/archive/raw/master/tools/Map%20Editor.zip)_** - Editor de mapas para SA:MP.
 
-## Libraries
+## Librerias
 
 - **_[SA:MP stdlib](https://github.com/pawn-lang/samp-stdlib/)_** - Includes por defecto actualizados, con valores constantes, documentados, y completos.
 - **_[fixes.inc](https://github.com/pawn-lang/sa-mp-fixes/)_** - Plug-and-play. Arreglos y optimización para un gran número de errores en los servidores de SA:MP. Plug And Play.
@@ -29,7 +29,7 @@ description: Una lista de herramientas, librerías y plugins útiles para desarr
 - **_[weapon-data.inc](https://github.com/Southclaws/samp-weapon-dat/)_** - Un preciso editor de atributos de armas.
 - **_[MV_Youtube.inc](https://github.com/MichaelBelgium/MV_Youtube)_** - API que convierte links de YouTube para streams de Audio.
 
-## Command Processors
+## Procesadores de Comandos
 
 - **_[izcmd.inc](https://github.com/YashasSamaga/I-ZCMD/)_** - Versión mejorada de ZCMD.
 - **_[PawnCMD.inc](https://github.com/katursis/Pawn.CMD/)_** - El procesador de comandos más rápido del oeste.
@@ -50,7 +50,7 @@ description: Una lista de herramientas, librerías y plugins útiles para desarr
 - **_[bcrypt](https://github.com/LassiR/bcrypt-samp/)_** - Plugin criptográfico Bcrypt para SA:MP.
 - **_[SHA512](https://github.com/openmultiplayer/archive/raw/master/plugins/SHA512.zip)_** - Algorítmo criptográfico SHA512 para SA:MP.
 
-## Game Modes
+## Modos de Juego
 
 - **_[Example Gamemode](https://github.com/openmultiplayer/example-gamemodes)_** - Lista de modos de juego (gamemodes) que son compatibles con open.mp.
 - **_[ScavengeSurvive](https://github.com/Southclaws/ScavengeSurvive)_** - Modo de juego Survival Jugador contra Jugador (JcJ).
